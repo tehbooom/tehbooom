@@ -1,6 +1,7 @@
-<div>
-<img align="center" src="https://readme-jokes.vercel.app/api?them=gruvbox"/>
-</div>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?them=gruvbox"/>
+</p>
 
 ---
 
@@ -32,13 +33,13 @@ DevOps Engineer that likes to do things.
 </div>
 
 # Stats
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tehbooom&theme=gruvbox" />
+</p>
 
-<a href="https://git.io/streaks-stats">
-  <img  src="http://github-readme-streak-stats.herokuapp.com?user=tehbooom&theme=gruvbox" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=tehbooom&count_private=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehbooom&layout=compact&theme=gruvbox&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehbooom&layout=compact&theme=gruvbox&langs_count=8" />
 </a>
