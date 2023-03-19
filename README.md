@@ -18,7 +18,7 @@ DevOps Engineer that likes to do things.
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/rust" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
@@ -34,11 +34,11 @@ DevOps Engineer that likes to do things.
 # Stats
 
 <a href="https://git.io/streaks-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tehbooom&theme=gruvbox" />
+  <img  src="http://github-readme-streak-stats.herokuapp.com?user=tehbooom&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tehbooom&count_private=true&theme=gruvbox" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=tehbooom&count_private=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehbooom&layout=compact&theme=gruvbox&langs_count=10" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehbooom&layout=compact&theme=gruvbox&langs_count=10" />
 </a>
