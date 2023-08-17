@@ -9,8 +9,6 @@
 
 DevOps Engineer that likes to do things.
 
-- Currently working on my GO skills and developing my [suGOku](https://github.com/tehbooom/sudoku) terminal application
-- I am not a great front-end developer and would love some help wiht my [custom kibana plugin](https://github.com/tehbooom/mitre_attack)
 - You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Alec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alec-carpenter-54446a227/)
 
 # Languages and Tools
